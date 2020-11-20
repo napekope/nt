@@ -1,0 +1,58 @@
+body {
+  background-color: #dfafe3;
+  color: #eeeeee;
+  font-style: normal;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dashed;
+  border-color: dark;
+  border-width: 5px;
+  width: 10%;
+  color: #5b6575;
+}
+
+h1 {
+  color: slateblue;
+}
+
+h3 {
+  color: #393b44;
+}
+
+h2 {
+  color: #3b399e;
+}
+
+p {
+  color: #0272c3;
+}
+
+a {
+  color: #3b399e;
+}
+
+.redh3 {
+  color: red;
+}
+
+.greenh3 {
+  color: green;
+}
+
+#dotted {
+  border-top-style: dotted;
+}
+
+.georgia {
+  font-family: Georgia, serif;
+}
+
+#mainheading {
+  color: white;
+}
+
+img:hover {
+  background-color: white;
+}
